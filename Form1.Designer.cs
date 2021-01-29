@@ -254,7 +254,6 @@
             this.label6.Size = new System.Drawing.Size(227, 29);
             this.label6.TabIndex = 19;
             this.label6.Text = "Random Nummbers";
-            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // progressBar3
             // 
@@ -294,7 +293,7 @@
             this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "Text Spammer Ver. 3.1.0";
+            this.Text = "Text Spammer";
             this.ResumeLayout(false);
             this.PerformLayout();
 
